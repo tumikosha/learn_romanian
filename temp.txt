@@ -1,0 +1,85 @@
+| Лицо      | Eng                | Rus            | Eu (я)      | Tu (ты)      | El/Ea (он/она) | Noi (мы)     | Voi (вы)       | Ei/Ele (они)  |
+|-----------|--------------------|----------------|-------------|--------------|----------------|--------------|----------------|---------------|
+| A se aduna    | gather             | собираться     | mă adun      | te aduni      | se adună       | ne adunăm    | vă adunați     | se adună      |
+| A se agita    | get agitated       | волноваться    | mă agit      | te agiți      | se agită       | ne agităm    | vă agitați     | se agită      |
+| A se amuza    | have fun           | развлекаться   | mă amuz      | te amuzi      | se amuză       | ne amuzăm    | vă amuzați     | se amuză      |
+| A se angaja   | get hired          | наниматься     | mă angajez   | te angajezi   | se angajează   | ne angajăm   | vă angajați    | se angajează  |
+| A se apropia  | appropriate        | присваивать    | mă apropii   | te apropii   | se apropie     | ne apropiem  | vă apropiați   | se apropie   |
+| A se așeza    | sit down           | садиться       | mă așez      | te așezi      | se așează       | ne așezăm    | vă așezați     | se așează     |
+| A se bucura   | rejoice            | радоваться     | mă bucur     | te bucuri     | se bucură      | ne bucurăm   | vă bucurați    | se bucură    |
+| A se căsători  | get married       | жениться/выходить замуж | mă căsătoresc | te căsătorești | se căsătorește  | ne căsătorim | vă căsătoriți  | se căsătoresc |
+| A se certa    | argue              | ссориться      | mă cert      | te cerți      | se ceartă       | ne certăm    | vă certați     | se ceartă     |
+| A se chinui   | suffer             | мучиться       | mă chinui    | te chinuiești | se chinuiește   | ne chinuim   | vă chinuiți    | se chinuiesc  |
+| A se confrunta| confront           | сталкиваться   | mă confrunt  | te confrunți  | se confruntă   | ne confruntăm| vă confruntați | se confruntă |
+| A se culca    | go to bed          | ложиться спать | mă culc      | te culci      | se culcă       | ne culcăm    | vă culcați     | se culcă      |
+| A se decide  | make up one's mind | решаться       | mă decid     | te decizi     | se decide      | ne decidem   | vă decideți   | se decid     |
+| A se descurca| manage             | справляться    | mă descurc   | te descurci   | se descurcă    | ne descurcăm | vă descurcați  | se descurcă  |
+| A se destăinui| confess            | исповедоваться | mă destăinuiesc| te destăinuiești| se destăinuie | ne destăinuim| vă destăinuiți| se destăinuie|
+| A se dezvolta| develop            | развиваться    | mă dezvolt   | te dezvolți   | se dezvoltă    | ne dezvoltăm | vă dezvoltați | se dezvoltă  |
+| A se duce    | go                 | идти/направляться | mă duc     | te duci       | se duce        | ne ducem     | vă duceți      | se duc       |
+| A se elibera| free oneself       | освобождаться  | mă eliberez  | te eliberezi  | se eliberează  | ne eliberăm  | vă eliberați   | se eliberează |
+| A se enerva  | get angry          | злиться        | mă enervez   | te enervezi   | se enervează   | ne enervăm   | vă enervați    | se enervează  |
+| A se epilepsi| have a seizure     | испытывать эпилептический приступ | mă epilesez | te epilezezi | se epilezează  | ne epilepsăm | vă epilezați   | se epilezează |
+| A se exploda | explode            | взрываться     | mă explodez  | te explodezi  | se explodează  | ne explodăm  | vă explodează  | se explodează |
+| A se exprima| express oneself   | выражаться     | mă exprim    | te exprimi    | se exprimă     | ne exprimăm  | vă exprimați   | se exprimă   |
+| A se forma   | form               | формироваться  | mă formează  | te formezi   | se formează    | ne formăm    | vă formați     | se formează  |
+| A se framânta| worry              | тревожиться    | mă framânt   | te framânti   | se framântă    | ne framântăm | vă framânți    | se framântă  |
+
+
+| Глагол | Eng | Rus | Eu (я) | Tu (ты) | El/Ea (он/она) | Noi (мы) | Voi (вы) | Ei/Ele (они) |
+|--------|-----|-----|--------|---------|----------------|----------|----------|-------------|
+| a se gândi | to think | думать | mă gândesc | te gândești | se gândește | ne gândim | vă gândiți | se gândesc |
+| a se grăbi | to hurry | спешить/торопиться | mă grăbesc | te grăbești | se grăbește | ne grăbim | vă grăbiți | se grăbesc |
+| a se îmbăta | to get drunk | напиваться | mă îmbăt | te îmbăți | se îmbată | ne îmbătăm | vă îmbătați | se îmbată |
+| a se îmbolnăvi | to get sick | заболевать | mă îmbolnăvesc | te îmbolnăvești | se îmbolnăvește | ne îmbolnăvim | vă îmbolnăviți | se îmbolnăvesc |
+| a se îmbulzi | to shove | толкаться | mă îmbulzesc | te îmbulzești | se îmbulzește | ne îmbulzim | vă îmbulziți | se îmbulzesc |
+| a se împotrivi | to oppose | противиться | mă împotrivesc | te împotrivești | se împotrivește | ne împotrivim | vă împotrivit | se împotrivesc |
+| a se împotrivi | to resist | сопротивляться | mă împotrivesc | te împotrivești | se împotrivește | ne împotrivim | vă împotrivit | se împotrivesc |
+| a se înălţa | to rise up | возвышаться | mă înălț | te înalți | se înalță | ne înălțăm | vă înalți | se înalță |
+| a se încumeta | to dare | осмелиться | mă încumet | te încumeți | se încumetă | ne încumetăm | vă încumetați | se încumetă |
+| a se îndrepta | to head towards | направляться | mă îndrept | te îndrepți | se îndreaptă | ne îndreptăm | vă îndreptați | se îndreaptă |
+| a se îneca | to drown | захлебнуться | mă înec | te îneci | se înecă | ne înecăm | vă înecați | se înecă |
+| a se îneca | to drown | захлёбываться | mă înec | te îneci | se înecă | ne înecăm | vă înecați | se înecă |
+| a se înfoia | to bend | сгибаться | mă înfoi | te înfoi | se înfoiește | ne înfoim | vă înfoiți | se înfoiesc |
+| a se înghesui | to crowd | толкаться | mă înghesui | te înghesezi | se înghesează | ne înghesuim | vă înghesuiți | se înghesuiesc |
+| a se înghesui | to crowd | толпиться | mă înghesui | te înghesezi | se înghesează | ne înghesuim | vă înghesuiți | se înghesuiesc |
+| a se îngrijora | to worry | беспокоиться | mă îngrijorez | te îngrijorezi | se îngrijorează | ne îngrijorăm | vă îngrijorați | se îngrijorează |
+| a se însănătoşi | to recover | выздоравливать | mă însănătoșesc | te însănătoșești | se însănătoșește | ne însănătoșim | vă însănătoșiți | se însănătoșesc |
+| a se întâmpla | to happen | случаться | mi se întâmplă | îți se întâmplă | îi se întâmplă | ne se întâmplă | vă se întâmplă | li se întâmplă |
+| a se întări | to get stronger | крепнуть | mă întăresc | te întărești | se întărește | ne întărim | vă întăriți | se întăresc |
+| a se întoarce | to return | возвращаться | mă întorc | te întorci | se întoarce | ne întoarcem | vă întoarceți | se întorc |
+| a se întrema | to shiver | дрожать | mă întremur | te întremuri | se întremură | ne întremurăm | vă întremurați | se întremură |
+| a se întrista | to become sad | печалиться | mă întristez | te întristezi | se întristează | ne întristăm | vă întristați | se întristează |
+| a se întuneca | to get dark | темнеть | mă întunec | te întuneci | se întunecă | ne întunecăm | vă întunecați | se întunecă |
+| a se învârti | to spin | крутиться/вращаться | mă învârtesc | te învârtești | se învârtește | ne învârteșim | vă învârteți | se învârtesc |
+| a se învăţa | to get used to | привык
+
+
+|      Глагол      |       Eng       |       Rus       |    Eu (я)    |  Tu (ты)  | El/Ea (он/она) | Noi (мы) | Voi (вы) | Ei/Ele (они) |
+|:----------------:|:--------------:|:---------------:|:-----------:|:---------:|:-------------:|:--------:|:--------:|:------------:|
+|   a se jena      |   feel embarrassed |   стесняться   |  mă jenex     | te jenezi  |  se jenează    |  ne jenăm |  vă jenați |  se jenează  |
+|  a se lumina     |      dawn       |    светать      |   mă luminez  | te luminezi|  se luminează  |ne lumegm  | vă luminați| se luminează |
+|   a se mira      |      wonder     |  удивляться     |   mă mir      | te miri    |   se miră      | ne mirăm  | vă mirați  | se miră      |
+| a se mulţumi     |    be satisfied with | довольствоваться | mă mulţumesc | te mulţumești | se mulţumește | ne mulţumim| vă mulţumiți | se mulţumesc |
+|a se plictisi     |    become bored |    скучать      | mă plictisesc | te plictisești | se plictisește | ne plictisim | vă plictisiți | se plictisesc |
+|a se pregăti      |     prepare     |   готовиться    |  mă pregătesc | te pregătești | se pregătește  | ne pregătim | vă pregătiți | se pregătesc |
+|a se pricepe      |     be skilled at |   быть сведущим |  mă pricep    | te pricepi | se pricepe | ne pricepim | vă pricepeți | se pricep   |
+|a se pricepe      | be skilled at something | разбираться в чем-либо |  mă pricep  | te pricepi | se pricepe | ne pricepim | vă pricepeți | se pricep   |
+|a se provoca      |       provoke   |   провоцировать  |  mă provoc    | te provoci | se provoacă | ne provocăm | vă provocați | se provoacă |
+|a se răci         |     catch a cold |     простыть    |  mă răcesc    | te răcești | se răcește | ne răcim   | vă răciți   | se răcesc   |
+|a se răni         |      get hurt   |    раниться     |   mă rănesc   | te rănești | se rănește | ne rănim   | vă răniți   | se rănesc   |
+|a se raporta      |       report    |   докладывать   |  mă raportez  | te raportezi | se raportează | ne raportăm | vă raportați | se raportează |
+|a se raporta      |    report back |  докладывать    |  mă raportez  | te raportezi | se raportează | ne raportăm | vă raportați | se raportează |
+|a se răsplăti     |     get rewarded |  вознаграждаться| mă răsplătesc | te răsplătești | se răsplătește | ne răsplătim | vă răsplătiți | se răsplătesc|
+|a se razbuna      |      take revenge |     мстить     |  mă răzbun    | te răzbuni | se răzbună | ne răzbunăm | vă răzbunați | se răzbună  |
+|a se remarca      |     stand out   |   выделяться    |  mă remarc    | te remarci | se remarcă | ne remarcm | vă remarcați | se remarcă  |
+|a se repezi       |        rush     |  бросаться, накидываться |  mă reped  | te repezi  | se repezește | ne repezim | vă repeziți | se repezesc |
+|a se repezi       |     rush at     | бросаться, накидываться |  mă reped  | te repezi  | se repezește | ne repezim | vă repeziți | se repezesc |
+|a se retrage      |       retreat   | отступать, отходить |  mă retrag  | te retragi | se retrage | ne retragem | vă retrageți | se retrag   |
+|a se revolta      |        revolt   |    бунтовать    |  mă revolt    | te revolți | se revoltă | ne revoltăm | vă revoltați | se revoltă  |
+|a se roti         |       rotate    |   вращаться     |   mă rotesc   | te rotești | se rotește | ne roteam  | vă roteți  | se rotesc   |
+|a se rupe         |         break   |   ломаться     |   mă rup      | te rupi    | se rupe    | ne rupem   | vă rupeți  | se rup      |
+|a se rupe         |         break   | ломаться, разрываться |   mă rup  | te rupi    | se rupe    | ne rupem   | vă rupeți  | se rup      |
+|a se ruşina       |    feel ashamed |    стыдиться    |  mă rușinez   | te rușinezi| se rușinează | ne rușinăm | vă rușinați | se rușinează |
+
+Обратите внимание, что для некоторых глаголов, у которых есть несколько значений, были добавлены разные формы перевода в русский язык.
